@@ -1,0 +1,45 @@
+Factorial Tests:
+Factorial(0) = 1       
+Factorial(1) = 1       
+Factorial(5) = 120     
+Factorial(10) = 3628800
+
+Fibonacci Tests:       
+
+Naive Fibonacci(5) = 5
+Naive Calls = 15
+Memoized Fibonacci(5) = 5
+Memo Calls = 9
+
+Naive Fibonacci(10) = 55
+Naive Calls = 177
+Memoized Fibonacci(10) = 55
+Memo Calls = 19
+
+Naive Fibonacci(20) = 6765
+Naive Calls = 21891
+Memoized Fibonacci(20) = 6765
+Memo Calls = 39
+
+Naive Fibonacci(30) = 832040
+Naive Calls = 2692537
+Memoized Fibonacci(30) = 832040
+Memo Calls = 59
+
+Tower of Hanoi Tests:
+Move disk 1 from A to C
+Move disk 2 from A to B
+Move disk 1 from C to B
+Move disk 3 from A to C
+Move disk 1 from B to A
+Move disk 2 from B to C
+Move disk 1 from A to C
+
+Total Moves Stored in Stack: 7
+
+Binary Search Tests:
+Search 7 -> Index: 3
+Search 1 -> Index: 0
+Search 13 -> Index: 6
+Search 2 -> Index: -1
+Search in empty array: -1
